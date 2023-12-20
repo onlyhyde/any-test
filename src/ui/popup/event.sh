@@ -1,3 +1,3 @@
 #/bin/sh
 
-echo 'event popup'
+echo 'event popup #2'
